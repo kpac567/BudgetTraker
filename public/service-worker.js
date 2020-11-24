@@ -54,14 +54,14 @@ self.addEventListener('fetch', evt => {
             caches.open(DATA_CACHE_NAME).then(cache => {
                 return fetch(evt.request)
                 .then(response => {
-                    //if good response, clone it and store it in the cache
+                    //clone then store it in the cache
                     if (response.status === 200) {
                         cache.put(evt.request.url, response.clone());
                     }
                     return response;
                 })
                 .catch(err => {
-                    //Network request failed, try to get it from the Cache
+                    //If network request failed, get it from the cache
                     return cache.match(evt.request);
                 });
             }).catch(err => console.log(err))
