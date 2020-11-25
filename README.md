@@ -37,8 +37,6 @@ GIVEN a user is on Budget App without an internet connection WHEN the user input
 - [Project Repo](https://github.com/kpac567/BudgetTraker)
 - [Budget Tracker](https://budgetrk.herokuapp.com)
 
-## Created By
-
-Kevin Paczkowski
+## Created By Kevin Paczkowski
 ![New Project (1)](https://user-images.githubusercontent.com/71659832/100169632-edd18900-2e91-11eb-8f12-07328b579f4d.png)
 
