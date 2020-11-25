@@ -40,4 +40,5 @@ GIVEN a user is on Budget App without an internet connection WHEN the user input
 ## Created By
 
 Kevin Paczkowski
-![transparent bg](https://user-images.githubusercontent.com/71659832/100169227-ef4e8180-2e90-11eb-9d9f-97fdf6cc3106.png)
+![transparent bg](https://user-images.githubusercontent.com/71659832/100169325-363c7700-2e91-11eb-9592-e1f60043a6f4.png)
+
