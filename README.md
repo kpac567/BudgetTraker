@@ -34,5 +34,5 @@ GIVEN a user is on Budget App without an internet connection WHEN the user input
 
 ## Repository
 
-- [Project Repo](https://github.com/kpac567/FitnessTracker)
-- [Budget Tracker] (https://budgetrk.herokuapp.com/)
+- [Project Repo](https://github.com/kpac567/BudgetTraker)
+- [Budget Tracker](https://budgetrk.herokuapp.com)
